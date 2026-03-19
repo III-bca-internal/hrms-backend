@@ -14,9 +14,10 @@ import java.util.List;
                 "http://localhost:3000",
                 "https://hrms-frontend-alpha-five.vercel.app",
                 "https://www.hr-management-system.me",
-                "anitha-hrms-frontend-dfemf2cyckepdwd4.centralindia-01.azurewebsites.net"
+                "https://anitha-hrms-frontend-dfemf2cyckepdwd4.centralindia-01.azurewebsites.net"
         }
 )
+
 public class EmployeeController {
 
     @Autowired
