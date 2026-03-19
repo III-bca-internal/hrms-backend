@@ -12,7 +12,8 @@ import java.util.List;
 @CrossOrigin(
         origins = {
                 "http://localhost:3000",
-                "https://hrms-frontend-alpha-five.vercel.app"
+                "https://hrms-frontend-alpha-five.vercel.app",
+                "https://www.hr-management-system.me"
         }
 )
 public class EmployeeController {
